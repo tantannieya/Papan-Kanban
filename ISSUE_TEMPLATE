@@ -1,1 +1,15 @@
+---
+name: User Story
+about: Template user story Agile
+title: "[Story] "
+labels: story
+assignees: yourusername
+---
 
+**User Story**
+Sebagai [jenis pengguna], saya ingin [fitur atau fungsi], agar [alasan/motivasi].
+
+**Kriteria Penerimaan (Gherkin Style)**
+Given [kondisi awal],
+When [aksi pengguna],
+Then [hasil yang diharapkan].
